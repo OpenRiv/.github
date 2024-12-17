@@ -4,7 +4,7 @@
 > 쉽고, 간편하고, 즐거운 회의로 바꿔줍니다. Riv와 함께 우리의 세상을 바꿔나가고 싶지 않나요?  
 > Riv는 오픈소스 프로젝트입니다. 우리 함께 열려있는 협업 세상을 만들어봐요!  
 
-> [**Riv 매뉴얼**](https://github.com/OpenRiv/riv-frontend/blob/main/docs/riv_manual.pdf)
+> [**Riv 매뉴얼**](https://github.com/OpenRiv/.github/docs/riv_manual.pdf)
 
 ### 📚 파트별 매뉴얼 세부
 - [**Riv Bot** - 디스코드 챗봇](https://github.com/OpenRiv/riv-bot)
