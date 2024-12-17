@@ -5,7 +5,7 @@
 > 쉽고, 간편하고, 즐거운 회의로 바꿔줍니다. Riv와 함께 우리의 세상을 바꿔나가고 싶지 않나요?  
 > Riv는 오픈소스 프로젝트입니다. 우리 함께 열려있는 협업 세상을 만들어봐요!
 
-## 📄 [**Riv 매뉴얼**](https://raw.githubusercontent.com/OpenRiv/.github/main/profile/docs/riv_manual.pdf)
+## 📄 [**Riv 매뉴얼**](https://www.figma.com/slides/eJadhMIzsKJx38TjyWVmJj/%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EC%B5%9C%EC%A2%85?node-id=5-485&t=IJA0gQoLzIs2Gc29-0)
 
 <div align="center">
 
