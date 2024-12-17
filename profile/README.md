@@ -6,6 +6,7 @@
 
 ## 📄 [**Riv 매뉴얼**](https://raw.githubusercontent.com/OpenRiv/.github/main/profile/docs/riv_manual.pdf)
 
+<br/>
 ### 📚 파트별 매뉴얼 세부
 - [**Riv Bot** - 디스코드 챗봇](https://github.com/OpenRiv/riv-bot)
 - [**Riv Frontend** - 관리자페이지 프론트엔드](https://github.com/OpenRiv/riv-frontend)
